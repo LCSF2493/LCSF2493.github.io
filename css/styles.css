@@ -1,0 +1,70 @@
+/* Name: Sarvanjeet Singh Student Number: C0701532 */
+body {
+    background-color: #f7f8fc; 
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container for centering content */
+.container {
+    width: 85%;
+    margin: 0 auto;
+}
+
+/* Header for a modern thermometer theme */
+header {
+    background-color: #004b8d; 
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* Navbar styling */
+nav {
+    text-align: center;
+    background-color: #0066cc;
+    padding: 12px 0;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav img {
+    vertical-align: middle;
+    margin-right: 8px;
+}
+
+/* Main area styling */
+main {
+    display: inline-block; 
+    margin: 20px;
+    padding: 20px; 
+    border: 2px solid #ccc; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    background-color: white; 
+    text-align: center; 
+}
+
+
+footer {
+    font-size: 0.85em;
+    text-align: center;
+    padding: 10px;
+    background-color: #192632;
+    color: white;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
